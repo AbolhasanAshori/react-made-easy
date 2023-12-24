@@ -1,0 +1,13 @@
+{
+  "name": "@made-easy/monorepo",
+  "version": "0.0.1alpha",
+  "packageManager": "yarn@3.6.3",
+  "description": "Javascript Helper Library for Bootstrapping Boilerplate Codes for Popular Libraries",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "made-easy"
+  ],
+  "license": "ISC"
+}
